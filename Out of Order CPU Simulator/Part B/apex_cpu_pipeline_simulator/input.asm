@@ -1,0 +1,3 @@
+MOVC R3,#27
+MOVC R4,#9
+HALT
